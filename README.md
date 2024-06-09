@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm abdellah lamine</h1>
 <h3 align="center">doing cyber security  if i may say so..</h3>
-[!hello](https://twitter.com/i/status/1798297599134642328)
+![Uploading Godamn668510791 - 1798297599134642328.gif…]()
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
