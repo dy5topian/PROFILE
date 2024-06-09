@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm abdellah lamine</h1>
 <h3 align="center">doing cyber security  if i may say so..</h3>
-![Uploading Godamn668510791 - 1798297599134642328.gif…]()
+![Uploading Godamn668510791 - 1798297599134642328.gif…](img/Godamn668510791 - 1798297599134642328.gif)
 
 
 <h3 align="left">Connect with me:</h3>
