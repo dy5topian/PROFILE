@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm abdellah lamine</h1>
 <h3 align="center">doing cyber security  if i may say so..</h3>
-![hi](https://github.com/dy5topian/dy5topian/img/mob.gif.gif?raw=true)
+![hi](https://github.com/dy5topian/dy5topian/blob/main/mob.gif.gif)
 
 
 <h3 align="left">Connect with me:</h3>
